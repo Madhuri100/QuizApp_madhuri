@@ -1,0 +1,68 @@
+{
+  "difficultquestions": [
+    {
+      "question": "Difficult question answer a",
+      "answer1": "A)A",
+      "answer2": "B)B",
+      "answer3": "C)C",
+      "answer4": "D)D",
+      "correct": "A)A"
+    },
+    {
+      "question": "Difficult question answer b",
+      "answer1": "A)A",
+      "answer2": "B)B",
+      "answer3": "C)C",
+      "answer4": "D)D",
+      "correct": "B)B"
+    },
+    {
+      "question": "Difficult question answer c",
+      "answer1": "A)A",
+      "answer2": "B)B",
+      "answer3": "C)C",
+      "answer4": "D)D",
+      "correct": "C)C"
+    },
+    {
+      "question": "Difficult question answer d",
+      "answer1": "A)A",
+      "answer2": "B)B",
+      "answer3": "C)C",
+      "answer4": "D)D",
+      "correct": "D)D"
+    },
+    {
+      "question": "Difficult question answer e",
+      "answer1": "A)A",
+      "answer2": "B)B",
+      "answer3": "C)C",
+      "answer4": "D)D",
+      "correct": "A)A"
+    },
+    {
+      "question": "Difficult question answer f",
+      "answer1": "A)A",
+      "answer2": "B)B",
+      "answer3": "C)C",
+      "answer4": "D)D",
+      "correct": "B)B"
+    },
+    {
+      "question": "Difficult question answer g",
+      "answer1": "A)A",
+      "answer2": "B)B",
+      "answer3": "C)C",
+      "answer4": "D)D",
+      "correct": "C)C"
+    },
+    {
+      "question": "Difficult question answer h",
+      "answer1": "A)A",
+      "answer2": "B)B",
+      "answer3": "C)C",
+      "answer4": "D)D",
+      "correct": "D)D"
+    }
+  ]
+}

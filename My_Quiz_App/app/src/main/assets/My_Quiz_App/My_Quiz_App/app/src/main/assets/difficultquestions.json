@@ -1,0 +1,84 @@
+{
+  "difficultquestions": [
+    {
+      "question": "Total constructor string class have?",
+      "answer1": "A)13",
+      "answer2": "B)3",
+      "answer3": "C)7",
+      "answer4": "D)20",
+      "correct": "A)13"
+    },
+    {
+      "question": "Identify the return type of a method that does not return any value.",
+      "answer1": "A)int",
+      "answer2": "B)void",
+      "answer3": "C)double",
+      "answer4": "D)none",
+      "correct": "B)void"
+    },
+    {
+      "question": "Where does the system stores parameters and local variables a method is invoked?",
+      "answer1": "A)Heap",
+      "answer2": "B)Array",
+      "answer3": "C)Stack",
+      "answer4": "D)Tree",
+      "correct": "C)Stack"
+    },
+    {
+      "question": "Identify the modifier which cannot be used for constructor.",
+      "answer1": "A)public",
+      "answer2": "B)protected",
+      "answer3": "C)private",
+      "answer4": "D)static",
+      "correct": "D)static"
+    },
+    {
+      "question": "What is the variable declared in a class for the use of all methods of the class called?",
+      "answer1": "A)Instance variables",
+      "answer2": "B)Reference variable",
+      "answer3": "C)Object",
+      "answer4": "D)None",
+      "correct": "A)Instance Variables"
+    },
+    {
+      "question": "What is the implicit return type of constructor?",
+      "answer1": "A)No return type",
+      "answer2": "B)A class object in which it is defined",
+      "answer3": "C)void",
+      "answer4": "D)None",
+      "correct": "B)A class in which it is defined"
+    },
+    {
+      "question": "When is the finalize() method called?",
+      "answer1": "A)Before a variable goes out of scope",
+      "answer2": "B)Before an object goes out of scope",
+      "answer3": "C)Before garbage collection",
+      "answer4": "D)None",
+      "correct": "C)Before garbage collection"
+    },
+    {
+      "question": "Identify the prototype of the default constructor.\n public clas  Solution{}",
+      "answer1": "A)Solution(void)",
+      "answer2": "B)Solution()",
+      "answer3": "C)public Solution(void)",
+      "answer4": "D)public Solution()",
+      "correct": "D)public Solution()"
+    },
+    {
+      "question": "Identify the correct way of declaring constructor.\n public class Solution{}",
+      "answer1": "A)Solution(){}",
+      "answer2": "B)public Solution(){}",
+      "answer3": "C)Both (A) and (B)",
+      "answer4": "D)None",
+      "correct": "C)Both (A) and (B)"
+    },
+    {
+      "question": "What is Runnable?",
+      "answer1": "A)Abstract class",
+      "answer2": "B)Class",
+      "answer3": "C)Method",
+      "answer4": "D)Interface",
+      "correct": "D)Interface"
+    }
+  ]
+}

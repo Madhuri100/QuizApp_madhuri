@@ -1,0 +1,84 @@
+{
+  "easyquestions": [
+    {
+      "question": "Number of primitive data types in Java are?",
+      "answer1": "A)8",
+      "answer2": "B)7",
+      "answer3": "C)6",
+      "answer4": "D)5",
+      "correct": "A)8"
+    },
+    {
+      "question": "What is the size of float and double in java?",
+      "answer1": "A)32 and 32",
+      "answer2": "B)32 and 64",
+      "answer3": "C)64 and 64",
+      "answer4": "D)64 and 32",
+      "correct": "B)32 and 64"
+    },
+    {
+      "question": "Automatic type conversion is possible in which of the possible cases?",
+      "answer1": "A)Byte to int",
+      "answer2": "B)Long to int",
+      "answer3": "C)Int to long",
+      "answer4": "D)Short to int",
+      "correct": "C)Int to long"
+    },
+    {
+      "question": "Select the valid statement.",
+      "answer1": "A)char[] ch=new char(5)",
+      "answer2": "B)char[] ch=new char()",
+      "answer3": "C)char[] ch=new char[]",
+      "answer4": "D)char[] ch=new char[5]",
+      "correct": "D)char[] ch=new char[5]"
+    },
+    {
+      "question": "When an array is passed to a method, what does the method receive?",
+      "answer1": "A)The reference of the array",
+      "answer2": "B)A copy of the array",
+      "answer3": "C)Length of the array",
+      "answer4": "D)Copy of first element",
+      "correct": "A)The reference of the array"
+    },
+    {
+      "question": "Select the valid statement to declare and initialize an array.",
+      "answer1": "A)int[] A={}",
+      "answer2": "B)int[] A={1,2,3}",
+      "answer3": "C)int[] A=(1,2,3)",
+      "answer4": "D)int[][] A={1,2,3}",
+      "correct": "B)int[] A={1,2,3}"
+    },
+    {
+      "question": "Arrays in java are-",
+      "answer1": "A)Object references",
+      "answer2": "B)Primitive data types",
+      "answer3": "C)objects",
+      "answer4": "D)None",
+      "correct": "C)objects"
+    },
+    {
+      "question": "When is the object created with new keyword?",
+      "answer1": "A)At run time",
+      "answer2": "B)At compile time",
+      "answer3": "C)Depends on the code",
+      "answer4": "D)None",
+      "correct": "A)At run time"
+    },
+    {
+      "question": "In which of the following is toString() method defined?",
+      "answer1": "A)java.lang.util",
+      "answer2": "B)java.lang.string",
+      "answer3": "C)java.lang.object",
+      "answer4": "D)None",
+      "correct": "C)java.lang.object"
+    },
+    {
+      "question": "compareTo() returns",
+      "answer1": "A)True",
+      "answer2": "B)False",
+      "answer3": "C)An int value",
+      "answer4": "D)None",
+      "correct": "C)An int value"
+    }
+  ]
+}
